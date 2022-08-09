@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name" translatable="false">ManuelExample</string>
+    <string name="brand_car">Brand: %1$s</string>
+    <string name="model_car">Model: %1$d</string>
+</resources>

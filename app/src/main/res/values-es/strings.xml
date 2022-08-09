@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="brand_car">Marca: %1$s</string>
+    <string name="model_car">Modelo: %1$d</string>
+</resources>
